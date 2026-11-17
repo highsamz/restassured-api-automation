@@ -1,6 +1,6 @@
 # 🐶 Dog API — Automação de Testes
 
-[![CI](https://github.com/highsamz/desafio-qa-agi-appi/actions/workflows/ci.yml/badge.svg)](https://github.com/highsamz/desafio-qa-agi-appi/actions/workflows/ci.yml)
+[![CI](https://github.com/highsamz/restassured-api-automation/actions/workflows/ci.yml/badge.svg)](https://github.com/highsamz/restassured-api-automation/actions/workflows/ci.yml)
 
 Automação de testes de API para a [Dog API](https://dog.ceo/dog-api/documentation),
 validando resposta, contrato (formato) e comportamento dos endpoints em diferentes
@@ -122,8 +122,8 @@ O projeto roda com qualquer Maven 3.9+ em Linux, Windows ou macOS.
 Clone e rode a suíte completa:
 
 ```bash
-git clone https://github.com/highsamz/desafio-qa-agi-appi.git
-cd desafio-qa-agi-appi
+git clone https://github.com/highsamz/restassured-api-automation.git
+cd restassured-api-automation
 mvn test
 ```
 
